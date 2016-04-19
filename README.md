@@ -9,7 +9,7 @@ In order to start the seed use:
 
 
 ```bash
-git clone https://github.com/radzserg/angular2-rest
+git clone https://github.com/ravi-mone/angular2-crud.git
 cd angular2-rest
 # install the project's dependencies
 npm install
@@ -22,4 +22,9 @@ npm run docs
 npm run build.dev
 # prod build
 npm run build.prod
+
+//TO run the mongodb server
+Run this command in another tab 
+
+npm server/app.js
 ```
