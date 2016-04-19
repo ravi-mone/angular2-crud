@@ -24,7 +24,8 @@ npm run build.dev
 npm run build.prod
 
 //TO run the mongodb server
-Run this `npm server/app.js` in another tab 
+#Run the below command in another tab 
+npm server/app.js
 
 
 ```
