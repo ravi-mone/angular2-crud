@@ -29,4 +29,11 @@ npm run build.prod
 2. cd server/
 3. npm install
 4. node app.js
+
+
+#Now open the browser of your choice with
+
+http://localhost:5555/users
 ```
+
+
