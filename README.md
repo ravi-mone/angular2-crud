@@ -26,7 +26,7 @@ npm run build.prod
 #To install and run the mongodb server ( use another command-line tab )
 #Install the mongodb server if not installed already
 1. apt-get install mongodb-server (try with `sudo` if not installed properly)
-2. cd server
+2. cd server/
 3. npm install
 4. node app.js
 ```
